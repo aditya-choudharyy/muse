@@ -12,7 +12,13 @@ Instead of organizing everything into rigid lists and documents, Muse gives you 
 
 ## Preview
 
-<!-- Add application screenshots or a GIF here -->
+## Preview
+
+<div align="center">
+  <img src="./muse-preview.png" width="100%" alt="Muse application preview" />
+  <br/>
+  <sub>Muse — An infinite canvas for thoughts.</sub>
+</div>
 
 ## Features
 
